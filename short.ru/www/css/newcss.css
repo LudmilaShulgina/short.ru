@@ -1,0 +1,61 @@
+body{
+    
+}
+main{
+    width: 70%;
+    height: 90%;
+    align: center;
+    margin: 0 auto;
+    margin-top: 10%;
+    
+}
+#url{
+    width: 60%;
+}
+.formbox{
+   width: 100%;
+   text-align: center; 
+}
+p.shorten_link{
+    height: 15px;
+    padding: 2.5%;
+    text-align: center; 
+}
+#story{
+    width: 70%;
+    margin: 0 auto; 
+}
+table {
+    border: 1px solid #ccc;
+    width: 100%;
+    margin:0;
+    padding:0;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  table tr {
+    border: 1px solid #ddd;
+    padding: 5px;
+    
+  }
+
+  table th, table td {
+    padding: 5px;
+    text-align: center;
+       
+  }
+
+  table th {
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+  .longurl{
+    width: 60%;
+    text-align: left;
+    outline: none;
+    overflow: hidden;
+    display: block;
+    height: 25px;
+  }
