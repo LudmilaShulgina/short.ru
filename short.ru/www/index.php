@@ -4,7 +4,8 @@ if(isset($_POST['url']) && !empty($_POST['url']))
 {
     include_once 'inc/json.php'; 
 }
-// Редирект 
+// Редирект
+
 elseif(isset($_SERVER['PATH_INFO']) && !empty($_SERVER['PATH_INFO']))
 {
     include_once 'inc/gourl.php';

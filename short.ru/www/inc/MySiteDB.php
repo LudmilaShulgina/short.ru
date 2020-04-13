@@ -1,5 +1,5 @@
 <?php
-//подключение к Базе данных
+
 $localhost = "localhost";
 $db = "shorturl";
 $user = "root";
