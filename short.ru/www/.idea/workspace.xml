@@ -23,8 +23,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Projects/web_page" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inc" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\short.ru\inc" />
+      <recent name="D:\OSPanel\domains\short.ru" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586763727219</updated>
-      <workItem from="1586763729531" duration="23817000" />
+      <workItem from="1586763729531" duration="25124000" />
+      <workItem from="1586799222313" duration="4166000" />
     </task>
     <servers />
   </component>
@@ -63,9 +70,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="594" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586776139396" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586766118730">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586800494445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586766118730" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586800494445" />
   </component>
 </project>
