@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">   
         <title>Short URL</title>
+        <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
         <script type="text/javascript" src="js/jquery.min.js" charset="utf-8"></script>
         <script type="text/javascript" src="js/main.js" charset="utf-8"></script>
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
